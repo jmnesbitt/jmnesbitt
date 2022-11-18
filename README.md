@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmnesbitt
 - 👀 I’m interested in ... coding for the web, intractive user malfucntion, creative coding
-- 🌱 I’m currently learning ... Javascript newbie
+- 🌱 I’m currently learning ... Java & Javascript newbie
 - 💞️ I’m looking to collaborate on ... Any coding projects to help me learn
 - 📫 How to reach me ... 
 
